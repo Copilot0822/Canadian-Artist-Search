@@ -1,0 +1,136 @@
+rank,canadian_rank,overall_rank,artist,playcount,lastfm_url,musicbrainz_match,musicbrainz_mbid,country,area,match_score,match_source,match_reason
+1,1,2,Drake,3316,https://www.last.fm/music/Drake,Drake,9fff2f8a-21e6-47de-a2b8-7f449929d43f,CA,Canada,100,musicbrainz-search,artist country is CA
+2,2,20,Mac DeMarco,747,https://www.last.fm/music/Mac+DeMarco,Mac DeMarco,f2492c31-54a8-4347-a1fc-f81f72873bbf,CA,Canada,,musicbrainz-mbid,artist country is CA
+3,3,24,The Weeknd,646,https://www.last.fm/music/The+Weeknd,The Weeknd,c8b03190-306c-4120-bb0b-6f2ebfc06ea9,CA,Canada,,musicbrainz-mbid,artist country is CA
+4,4,32,The Tragically Hip,506,https://www.last.fm/music/The+Tragically+Hip,The Tragically Hip,e86ab653-bec8-46f3-b4b6-a1a866919ef6,CA,Canada,,musicbrainz-mbid,artist country is CA
+5,5,34,Gordon Lightfoot,476,https://www.last.fm/music/Gordon+Lightfoot,Gordon Lightfoot,9d97b077-b28d-4ba8-a3d9-c71926e3b2b6,CA,Canada,,musicbrainz-mbid,artist country is CA
+6,6,45,PARTYNEXTDOOR,377,https://www.last.fm/music/PARTYNEXTDOOR,PARTYNEXTDOOR,f23ef341-33bd-47c1-b83c-846a78581f05,CA,Canada,,musicbrainz-mbid,artist country is CA
+7,7,67,Big Wreck,240,https://www.last.fm/music/Big+Wreck,Big Wreck,ff714d73-031a-401b-8e69-487944335cc6,CA,Canada,,musicbrainz-mbid,artist country is CA
+8,8,68,Tory Lanez,239,https://www.last.fm/music/Tory+Lanez,Tory Lanez,5b8ec72b-9e39-4a06-a2bf-964166b92a71,CA,Canada,,musicbrainz-mbid,artist country is CA
+9,9,72,Our Lady Peace,229,https://www.last.fm/music/Our+Lady+Peace,Our Lady Peace,78661da3-894c-4947-a34b-fb7edf585d9b,CA,Canada,,musicbrainz-mbid,artist country is CA
+10,10,91,Blue Rodeo,173,https://www.last.fm/music/Blue+Rodeo,Blue Rodeo,6b52e1be-f27a-433c-b51a-3f2d63abc2ba,CA,Canada,,musicbrainz-mbid,artist country is CA
+11,11,93,Men I Trust,173,https://www.last.fm/music/Men+I+Trust,Men I Trust,25ab7547-a4d2-480b-b028-c7f3497bc858,CA,Canada,,musicbrainz-mbid,artist country is CA
+12,12,103,EKKSTACY,154,https://www.last.fm/music/EKKSTACY,EKKSTACY,e897ca8f-03ff-4405-9cf2-c71ab2950ddb,CA,Canada,,musicbrainz-mbid,artist country is CA
+13,13,125,Nickelback,125,https://www.last.fm/music/Nickelback,Nickelback,bc710bcf-8815-42cf-bad2-3f1d12246aeb,CA,Canada,,musicbrainz-mbid,artist country is CA
+14,14,143,Neil Young,103,https://www.last.fm/music/Neil+Young,Neil Young,75167b8b-44e4-407b-9d35-effe87b223cf,CA,Canada,,musicbrainz-mbid,artist country is CA
+15,15,152,LOVING,94,https://www.last.fm/music/LOVING,Loving,d8a1bce4-2126-4758-9f70-bd992f2460fe,CA,Victoria,,musicbrainz-mbid,artist country is CA
+16,16,173,KAYTRANADA,76,https://www.last.fm/music/KAYTRANADA,KAYTRANADA,e56aee57-d90e-40cf-a70d-beb70f6f3c69,CA,Canada,,musicbrainz-mbid,artist country is CA
+17,17,175,Alanis Morissette,75,https://www.last.fm/music/Alanis+Morissette,Alanis Morissette,4bdcee62-4902-4773-8cd1-e252e2e31225,CA,Canada,,musicbrainz-mbid,artist country is CA
+18,18,187,Matthew Good Band,70,https://www.last.fm/music/Matthew+Good+Band,Matthew Good Band,9d119d4b-7a7d-4aaf-be18-727c9d1b6ed2,CA,Canada,,musicbrainz-mbid,artist country is CA
+19,19,233,Colter Wall,52,https://www.last.fm/music/Colter+Wall,Colter Wall,cf07ed57-2ec4-45dd-97ec-7c3eff721315,CA,Saskatchewan,,musicbrainz-mbid,artist country is CA
+20,20,251,Barenaked Ladies,47,https://www.last.fm/music/Barenaked+Ladies,Barenaked Ladies,86e736b4-93e2-40ff-9e1c-fb7c63fef5f6,CA,Canada,99,musicbrainz-batch-search,artist country is CA
+21,21,280,April Wine,39,https://www.last.fm/music/April+Wine,April Wine,78761837-4b00-4935-b7be-601697900e66,CA,Canada,,musicbrainz-mbid,artist country is CA
+22,22,285,Sam Roberts,39,https://www.last.fm/music/Sam+Roberts,Sam Roberts,c8a1771b-4526-4183-b066-120676990d74,CA,Canada,,musicbrainz-mbid,artist country is CA
+23,23,293,Rush,38,https://www.last.fm/music/Rush,Rush,534ee493-bfac-4575-a44a-0ae41e2c3fe4,CA,Canada,,musicbrainz-mbid,artist country is CA
+24,24,295,Travis Bretzer,38,https://www.last.fm/music/Travis+Bretzer,Travis Bretzer,171306a5-cfbf-4a93-a8ac-6145198b2489,CA,Canada,,musicbrainz-mbid,artist country is CA
+25,25,299,Majid Jordan,37,https://www.last.fm/music/Majid+Jordan,Majid Jordan,abaa7001-0d80-4e58-be5d-d2d246fd9d87,CA,Canada,,musicbrainz-mbid,artist country is CA
+26,26,309,Fog Lake,34,https://www.last.fm/music/Fog+Lake,Fog Lake,927cd7e5-ccec-418d-997f-c5e7edbdb51c,CA,Canada,,musicbrainz-mbid,artist country is CA
+27,27,315,Default,33,https://www.last.fm/music/Default,Default,c571d0d0-c47f-4e51-8a13-a3ec81a6e296,CA,Vancouver,,musicbrainz-mbid,artist country is CA
+28,28,317,Dead Calm,32,https://www.last.fm/music/Dead+Calm,Dead Calm,95a660e0-4668-42a6-a1a2-699437c64dae,CA,Canada,,musicbrainz-mbid,artist country is CA
+29,29,330,Daniel Caesar,30,https://www.last.fm/music/Daniel+Caesar,Daniel Caesar,b46e298d-d3a5-4695-a03e-63e8c523b23e,CA,Canada,,musicbrainz-mbid,artist country is CA
+30,30,359,Bryan Adams,26,https://www.last.fm/music/Bryan+Adams,Bryan Adams,4dbf5678-7a31-406a-abbe-232f8ac2cd63,CA,Canada,,musicbrainz-mbid,artist country is CA
+31,31,368,LOSTBOYJAY,25,https://www.last.fm/music/LOSTBOYJAY,LOSTBOYJAY,1a003a48-bfd1-4951-8c22-9b71963271cf,CA,Toronto,,musicbrainz-mbid,artist country is CA
+32,32,372,Bachman-Turner Overdrive,24,https://www.last.fm/music/Bachman-Turner+Overdrive,Bachman–Turner Overdrive,7a3b3f80-04b8-4968-b432-fbcd3f350716,CA,Canada,100,musicbrainz-search,artist country is CA
+33,33,384,Matt Mays,23,https://www.last.fm/music/Matt+Mays,Matt Mays,87f02750-fb8a-462c-9f3d-a43ec609fcb1,CA,Canada,72,musicbrainz-batch-search,artist country is CA
+34,34,395,Powfu,22,https://www.last.fm/music/Powfu,Powfu,bfb7bc12-4b79-412f-8303-ad6d7c772aca,CA,Canada,,musicbrainz-mbid,artist country is CA
+35,35,410,Three Days Grace,21,https://www.last.fm/music/Three+Days+Grace,Three Days Grace,fabb37f8-eb2a-4cc1-a72a-b56935bbb72d,CA,Canada,85,musicbrainz-batch-search,artist country is CA
+36,36,448,JP Saxe,17,https://www.last.fm/music/JP+Saxe,JP Saxe,5d27a55a-5731-4ef5-a3ad-d5b44251db0f,CA,Canada,,musicbrainz-mbid,artist country is CA
+37,37,453,Sea of Lettuce,17,https://www.last.fm/music/Sea+of+Lettuce,Sea of Lettuce,783e7ef5-9322-47a1-b89e-8010f1aefa5a,CA,Calgary,,musicbrainz-mbid,artist country is CA
+38,38,458,HOMESHAKE,16,https://www.last.fm/music/HOMESHAKE,HOMESHAKE,377c4d69-7c77-4186-b536-c4ecd8d97be6,CA,Montréal,,musicbrainz-mbid,artist country is CA
+39,39,479,Crystal Castles,15,https://www.last.fm/music/Crystal+Castles,Crystal Castles,b1570544-93ab-4b2b-8398-131735394202,CA,Canada,,musicbrainz-mbid,artist country is CA
+40,40,514,Sum 41,14,https://www.last.fm/music/Sum+41,Sum 41,f2eef649-a6d5-4114-afba-e50ab26254d2,CA,Canada,100,musicbrainz-batch-search,artist country is CA
+41,41,526,Finger Eleven,13,https://www.last.fm/music/Finger+Eleven,Finger Eleven,0b76f632-25fa-4681-9862-86499c28afd3,CA,Canada,92,musicbrainz-batch-search,artist country is CA
+42,42,544,The Guess Who,13,https://www.last.fm/music/The+Guess+Who,The Guess Who,4c567499-3a26-40e3-9471-20feb6c73767,CA,Canada,100,musicbrainz-batch-search,artist country is CA
+43,43,550,Chilliwack,12,https://www.last.fm/music/Chilliwack,Chilliwack,2c64e662-bca3-42f2-93d4-c826a05c2201,CA,Canada,76,musicbrainz-batch-search,artist country is CA
+44,44,582,Spirit of the West,11,https://www.last.fm/music/Spirit+of+the+West,Spirit of the West,1f3c32a0-0454-4ebc-9d85-27b52ae4154c,CA,Canada,82,musicbrainz-batch-search,artist country is CA
+45,45,590,Trooper,11,https://www.last.fm/music/Trooper,Trooper,5a85b5d9-5e6b-436c-9e13-a1cda395eb95,CA,Canada,71,musicbrainz-batch-search,artist country is CA
+46,46,593,Winona Forever,11,https://www.last.fm/music/Winona+Forever,Winona Forever,fffc2e0b-a119-459a-a6ff-fe8d3d14da04,CA,Canada,77,musicbrainz-batch-search,artist country is CA
+47,47,603,Gowan,10,https://www.last.fm/music/Gowan,Gowan,fc06a339-d14b-40ea-a87e-4672de5deb0f,CA,Canada,71,musicbrainz-batch-search,artist country is CA
+48,48,609,Kim Mitchell,10,https://www.last.fm/music/Kim+Mitchell,Kim Mitchell,88144008-9c66-4cd5-a16c-8e23ad31d28f,CA,Canada,70,musicbrainz-batch-search,artist country is CA
+49,49,614,Nelly Furtado,10,https://www.last.fm/music/Nelly+Furtado,Nelly Furtado,13655113-cd16-4b43-9dca-cadbbf26ee05,CA,Canada,94,musicbrainz-batch-search,artist country is CA
+50,50,621,The Band,10,https://www.last.fm/music/The+Band,The Band,8c90ad8c-9150-4c51-a1eb-342232e99d06,CA,Canada,78,musicbrainz-batch-search,artist country is CA
+51,51,646,Julie Doiron,9,https://www.last.fm/music/Julie+Doiron,Julie Doiron,44727d86-a37c-449f-aa91-4a8554127336,CA,Canada,93,musicbrainz-batch-search,artist country is CA
+52,52,647,Justin Bieber,9,https://www.last.fm/music/Justin+Bieber,Justin Bieber,e0140a67-e4d1-4f13-8a01-364355bee46e,CA,Canada,89,musicbrainz-batch-search,artist country is CA
+53,53,714,BADBADNOTGOOD,7,https://www.last.fm/music/BADBADNOTGOOD,BADBADNOTGOOD,754294d5-d7d2-4ea2-8184-1dcaaf55a56f,CA,Canada,74,musicbrainz-batch-search,artist country is CA
+54,54,752,Sloan,7,https://www.last.fm/music/Sloan,Sloan,5a63c831-5bdb-444d-a9db-974501e3317d,CA,Canada,78,musicbrainz-batch-search,artist country is CA
+55,55,757,The Sheepdogs,7,https://www.last.fm/music/The+Sheepdogs,The Sheepdogs,5b03776b-6987-4ccb-81ed-1c5fe00f9dfa,CA,Canada,83,musicbrainz-batch-search,artist country is CA
+56,56,813,NAV,6,https://www.last.fm/music/NAV,NAV,418fe547-4bec-48fe-8df0-ed25e27f4570,CA,Canada,85,musicbrainz-batch-search,artist country is CA
+57,57,818,Peach Pit,6,https://www.last.fm/music/Peach+Pit,Peach Pit,1888892a-06b7-4bbd-b0a1-3ffde01e4094,CA,Canada,84,musicbrainz-batch-search,artist country is CA
+58,58,821,Red Rider,6,https://www.last.fm/music/Red+Rider,Red Rider,a22d8a5d-1ca1-43cf-85a6-07f64a18273d,CA,Canada,82,musicbrainz-batch-search,artist country is CA
+59,59,835,The Watchmen,6,https://www.last.fm/music/The+Watchmen,The Watchmen,2d117d1c-2c9c-45e3-b333-7bc867a575f1,CA,Canada,67,musicbrainz-batch-search,artist country is CA
+60,60,836,Triumph,6,https://www.last.fm/music/Triumph,Triumph,5ba43ff1-f124-4b94-aed8-6428bd90bdd4,CA,Canada,82,musicbrainz-batch-search,artist country is CA
+61,61,841,54-40,5,https://www.last.fm/music/54-40,54-40,46eca540-5d16-4115-88dd-ac8a2b571f62,CA,Canada,74,musicbrainz-batch-search,artist country is CA
+62,62,874,Great Big Sea,5,https://www.last.fm/music/Great+Big+Sea,Great Big Sea,41a52c92-753f-4da4-bd9d-a01186cbbf6a,CA,Canada,86,musicbrainz-batch-search,artist country is CA
+63,63,893,Michael Cera,5,https://www.last.fm/music/Michael+Cera,Michael Cera,8c89b52a-89f1-48cf-9246-fac3591c932c,CA,Canada,72,musicbrainz-batch-search,artist country is CA
+64,64,911,Sex Bob-Omb,5,https://www.last.fm/music/Sex+Bob-Omb,Sex Bob‐Omb,e4ab476e-dcf4-47a0-a8c5-f23691a5be97,CA,Canada,77,musicbrainz-batch-search,artist country is CA
+65,65,918,Tal Bachman,5,https://www.last.fm/music/Tal+Bachman,Tal Bachman,f8364fea-e139-4e9b-9f95-2081dc7a91b6,CA,Canada,85,musicbrainz-batch-search,artist country is CA
+66,66,955,Carly Rae Jepsen,4,https://www.last.fm/music/Carly+Rae+Jepsen,Carly Rae Jepsen,09887aa7-226e-4ecc-9a0c-02d2ae5777e1,CA,Canada,100,musicbrainz-batch-search,artist country is CA
+67,67,973,Fleece,4,https://www.last.fm/music/Fleece,Fleece,c2241b59-3dfb-4230-a053-95d4beb9d20c,CA,Canada,74,musicbrainz-batch-search,artist country is CA
+68,68,978,Gord Downie,4,https://www.last.fm/music/Gord+Downie,Gord Downie,291eb640-aa58-45e9-a8cb-069d58644b2b,CA,Canada,89,musicbrainz-batch-search,artist country is CA
+69,69,1039,The Pursuit Of Happiness,4,https://www.last.fm/music/The+Pursuit+Of+Happiness,The Pursuit of Happiness,b7bda9f5-041c-410b-8177-47880e1fbb41,CA,Canada,94,musicbrainz-batch-search,artist country is CA
+70,70,1041,The Stampeders,4,https://www.last.fm/music/The+Stampeders,The Stampeders,51c30cee-2ba0-46c7-9715-adbcddcfe40b,CA,Canada,87,musicbrainz-batch-search,artist country is CA
+71,71,1066,Anne Murray,3,https://www.last.fm/music/Anne+Murray,Anne Murray,cff63c14-b081-4686-9357-eea84d5348fc,CA,Canada,85,musicbrainz-batch-search,artist country is CA
+72,72,1067,Arcade Fire,3,https://www.last.fm/music/Arcade+Fire,Arcade Fire,52074ba6-e495-4ef3-9bb4-0703888a9f68,CA,Canada,89,musicbrainz-batch-search,artist country is CA
+73,73,1094,Econoline Crush,3,https://www.last.fm/music/Econoline+Crush,Econoline Crush,c00a611d-81a4-4062-bd98-ac8f91c1795a,CA,Canada,93,musicbrainz-batch-search,artist country is CA
+74,74,1095,Edwin McCain,3,https://www.last.fm/music/Edwin+McCain,Edwin McCain,f362fdd1-3ddd-4c4e-9629-ef170b08d093,CA,Canada,91,musicbrainz-batch-search,artist country is CA
+75,75,1104,Five Man Electrical Band,3,https://www.last.fm/music/Five+Man+Electrical+Band,Five Man Electrical Band,76c515cd-6817-456f-b813-d98d19f7d865,CA,Canada,96,musicbrainz-batch-search,artist country is CA
+76,76,1107,Freddie Dredd,3,https://www.last.fm/music/Freddie+Dredd,Freddie Dredd,a40ea317-e531-428a-909b-da1e68700573,CA,Canada,88,musicbrainz-batch-search,artist country is CA
+77,77,1111,Glass Tiger,3,https://www.last.fm/music/Glass+Tiger,Glass Tiger,c70eb51f-3492-43f2-849e-74f9003621e3,CA,Canada,82,musicbrainz-batch-search,artist country is CA
+78,78,1112,Gob,3,https://www.last.fm/music/Gob,Gob,c6903a2e-063c-4f91-a284-17b8f421be7b,CA,Canada,78,musicbrainz-batch-search,artist country is CA
+79,79,1115,Grimes,3,https://www.last.fm/music/Grimes,Grimes,7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222,CA,Canada,81,musicbrainz-batch-search,artist country is CA
+80,80,1148,Loverboy,3,https://www.last.fm/music/Loverboy,Loverboy,c11ba128-03b1-404d-ae88-452524b7ecc3,CA,Canada,78,musicbrainz-batch-search,artist country is CA
+81,81,1166,Odds,3,https://www.last.fm/music/Odds,Odds,9d0ddf82-b7b1-45fc-a287-763df2b5d08a,CA,Canada,87,musicbrainz-batch-search,artist country is CA
+82,82,1192,Shania Twain,3,https://www.last.fm/music/Shania+Twain,Shania Twain,faabb55d-3c9e-4c23-8779-732ac2ee2c0d,CA,Canada,100,musicbrainz-batch-search,artist country is CA
+83,83,1256,Avril Lavigne,2,https://www.last.fm/music/Avril+Lavigne,Avril Lavigne,0103c1cc-4a09-4a5d-a344-56ad99a77193,CA,Canada,100,musicbrainz-batch-search,artist country is CA
+84,84,1267,Big Sugar,2,https://www.last.fm/music/Big+Sugar,Big Sugar,c632c4bb-d1e4-4afa-8513-28fd7e3e6bfd,CA,Canada,90,musicbrainz-batch-search,artist country is CA
+85,85,1342,Geordie Kieffer,2,https://www.last.fm/music/Geordie+Kieffer,Geordie Kieffer,e23c25c1-5d31-4c6d-b014-72ddcccfdb06,CA,Canada,86,musicbrainz-batch-search,artist country is CA
+86,86,1406,Marlaena Moore,2,https://www.last.fm/music/Marlaena+Moore,Marlaena Moore,ed0cd88f-13be-4f8f-8b76-955c92390ab3,CA,Canada,77,musicbrainz-batch-search,artist country is CA
+87,87,1409,meat computer,2,https://www.last.fm/music/meat+computer,meat computer,0943f55d-1c10-4a52-a1ef-06e625f26674,CA,Canada,79,musicbrainz-batch-search,artist country is CA
+88,88,1435,Paul Anka,2,https://www.last.fm/music/Paul+Anka,Paul Anka,420c6768-0885-415a-bb59-d6a275121125,CA,Canada,97,musicbrainz-batch-search,artist country is CA
+89,89,1445,Plumtree,2,https://www.last.fm/music/Plumtree,Plumtree,e68e96fa-e50d-4e0e-83bc-086bdef68634,CA,Canada,88,musicbrainz-batch-search,artist country is CA
+90,90,1463,Roy Woods,2,https://www.last.fm/music/Roy+Woods,Roy Woods,f50cee24-a799-45da-b65f-fb0874cd521d,CA,Canada,72,musicbrainz-batch-search,artist country is CA
+91,91,1474,Serial Joe,2,https://www.last.fm/music/Serial+Joe,Serial Joe,cf590759-f14b-413c-904a-99713ff346d4,CA,Canada,80,musicbrainz-batch-search,artist country is CA
+92,92,1476,Sheriff,2,https://www.last.fm/music/Sheriff,Sheriff,4679d9f9-fa29-4df2-b703-1eefb41500d7,CA,Canada,72,musicbrainz-batch-search,artist country is CA
+93,93,1540,Wide Mouth Mason,2,https://www.last.fm/music/Wide+Mouth+Mason,Wide Mouth Mason,d75667e6-b5c5-4473-aa36-7efa899f81a0,CA,Canada,100,musicbrainz-batch-search,artist country is CA
+94,94,1568,A Foot In Coldwater,1,https://www.last.fm/music/A+Foot+In+Coldwater,A Foot in Coldwater,f7a3ff10-e09c-4fe8-9f12-fed516f75b67,CA,Canada,99,musicbrainz-batch-search,artist country is CA
+95,95,1596,Alvvays,1,https://www.last.fm/music/Alvvays,Alvvays,99450990-b24e-4132-bb68-235f8c3e2564,CA,Canada,86,musicbrainz-batch-search,artist country is CA
+96,96,1606,Arkells,1,https://www.last.fm/music/Arkells,Arkells,79c976f6-0a85-42d6-9e01-8ae2c5592bc2,CA,Canada,71,musicbrainz-batch-search,artist country is CA
+97,97,1620,babbulicious,1,https://www.last.fm/music/babbulicious,Babbulicious,db442dbd-1579-4ff3-8472-bc4fc72c7522,CA,Canada,79,musicbrainz-batch-search,artist country is CA
+98,98,1651,Billianne,1,https://www.last.fm/music/Billianne,Billianne,9bba56ef-4305-4052-a65c-c0d1f8312a80,CA,Canada,76,musicbrainz-batch-search,artist country is CA
+99,99,1664,BLOND:ISH,1,https://www.last.fm/music/BLOND:ISH,BLOND:ISH,598ded27-65cd-481b-b1d1-173f03e459de,XE,Europe,88,musicbrainz-batch-search,begin-area is Canada
+100,100,1673,Bon Enfant,1,https://www.last.fm/music/Bon+Enfant,Bon Enfant,3939a741-09a7-4de6-b26b-578164529ee2,CA,Canada,75,musicbrainz-batch-search,artist country is CA
+101,101,1691,Broken Social Scene,1,https://www.last.fm/music/Broken+Social+Scene,Broken Social Scene,2eada8f8-056a-4093-bbc2-004909ce743b,CA,Canada,100,musicbrainz-batch-search,artist country is CA
+102,102,1725,Charlotte Day Wilson,1,https://www.last.fm/music/Charlotte+Day+Wilson,Charlotte Day Wilson,a78f1671-3ebf-4822-b2bd-70ccc3088c2d,CA,Canada,95,musicbrainz-batch-search,artist country is CA
+103,103,1736,Choses Sauvages,1,https://www.last.fm/music/Choses+Sauvages,Choses Sauvages,8598ee9c-69aa-48a4-bac9-74e11cf8d5af,CA,Canada,81,musicbrainz-batch-search,artist country is CA
+104,104,1758,Cowboy Junkies,1,https://www.last.fm/music/Cowboy+Junkies,Cowboy Junkies,b52211f1-49a2-4cd2-8535-dd1ba37ea90b,CA,Canada,94,musicbrainz-batch-search,artist country is CA
+105,105,1799,distraction4ever,1,https://www.last.fm/music/distraction4ever,distraction4ever,ac4a6977-cc1e-4a4e-a1f2-5e6dd39aa4a6,CA,Canada,73,musicbrainz-batch-search,artist country is CA
+106,106,1811,Doucette,1,https://www.last.fm/music/Doucette,Doucette,f357e0fc-db20-4362-a348-796d46e88e09,CA,Canada,66,musicbrainz-batch-search,artist country is CA
+107,107,1812,Doug and the Slugs,1,https://www.last.fm/music/Doug+and+the+Slugs,Doug and the Slugs,b7f71f66-5dd9-4945-a7eb-b94509fe67fb,CA,Canada,77,musicbrainz-batch-search,artist country is CA
+108,108,1823,Edward Bear,1,https://www.last.fm/music/Edward+Bear,Edward Bear,e89e31e5-66e0-4073-a5b9-2d99928c498d,CA,Canada,75,musicbrainz-batch-search,artist country is CA
+109,109,1909,Half Moon Run,1,https://www.last.fm/music/Half+Moon+Run,Half Moon Run,b48e0b4e-587b-4fb4-9706-78dfd1a5ea92,CA,Canada,82,musicbrainz-batch-search,artist country is CA
+110,110,1965,Jane Penny,1,https://www.last.fm/music/Jane+Penny,Jane Penny,9a15c7d3-7b26-4a4c-82c8-23c87ab7be6a,CA,Canada,71,musicbrainz-batch-search,artist country is CA
+111,111,1984,Jimmy Hunt,1,https://www.last.fm/music/Jimmy+Hunt,Jimmy Hunt,acfe720d-aca3-4966-91a6-7daaf77bb8ce,CA,Canada,66,musicbrainz-batch-search,artist country is CA
+112,112,2007,K-OS,1,https://www.last.fm/music/K-OS,k‐os,3dfb71a2-2e06-4a69-8839-3e1fc07e92ea,CA,Canada,77,musicbrainz-batch-search,artist country is CA
+113,113,2008,k.d. lang,1,https://www.last.fm/music/k.d.+lang,k.d. lang,675c1c5e-5625-4a5e-97a2-b02aab5db2fc,CA,Canada,92,musicbrainz-batch-search,artist country is CA
+114,114,2064,Len,1,https://www.last.fm/music/Len,LEN,f7f4c28d-2a57-4c44-a74d-112105bbeaeb,CA,Canada,75,musicbrainz-batch-search,artist country is CA
+115,115,2117,Marie-Eve Roy,1,https://www.last.fm/music/Marie-Eve+Roy,Marie-Eve Roy,35f40c2c-8ecb-4159-ae93-6d34858c2e38,CA,Canada,70,musicbrainz-batch-search,artist country is CA
+116,116,2135,Metric,1,https://www.last.fm/music/Metric,Metric,4449ccf6-c948-4d33-aa97-b6ad98ce4b5b,CA,Canada,75,musicbrainz-batch-search,artist country is CA
+117,117,2169,Mustafa,1,https://www.last.fm/music/Mustafa,Mustafa,987c5b70-b132-483f-8e0f-7bca4dca617f,CA,Canada,66,musicbrainz-batch-search,artist country is CA
+118,118,2224,Patrick Watson,1,https://www.last.fm/music/Patrick+Watson,Patrick Watson,592da4c4-9618-4a1a-a944-e60c05c39037,CA,Canada,76,musicbrainz-batch-search,artist country is CA
+119,119,2233,Philip Sayce,1,https://www.last.fm/music/Philip+Sayce,Philip Sayce,293fa740-6591-4c26-9201-85eb7a3b6491,CA,Canada,87,musicbrainz-batch-search,artist country is CA
+120,120,2238,Platinum Blonde,1,https://www.last.fm/music/Platinum+Blonde,Platinum Blonde,fc05e5f2-680a-4d72-ac41-0d3325dae5b0,CA,Canada,80,musicbrainz-batch-search,artist country is CA
+121,121,2268,Robbie Robertson,1,https://www.last.fm/music/Robbie+Robertson,Robbie Robertson,a0920ae6-2968-4f92-ac14-67448452bd18,CA,Canada,85,musicbrainz-batch-search,artist country is CA
+122,122,2278,Rough Trade,1,https://www.last.fm/music/Rough+Trade,Rough Trade,4f4b0013-1704-4936-a769-e6e8a6e08ff8,CA,Canada,90,musicbrainz-batch-search,artist country is CA
+123,123,2291,Sarcastic Sounds,1,https://www.last.fm/music/Sarcastic+Sounds,Sarcastic Sounds,2001862a-53ff-4b27-8662-0a3128156729,CA,Canada,89,musicbrainz-batch-search,artist country is CA
+124,124,2325,Southpacific,1,https://www.last.fm/music/Southpacific,Southpacific,512be8c3-2da9-4c09-94fa-1d3be420c378,CA,Canada,78,musicbrainz-batch-search,artist country is CA
+125,125,2329,Spookey Ruben,1,https://www.last.fm/music/Spookey+Ruben,Spookey Ruben,048f5fd9-456c-4b9a-9aed-bc579af44692,CA,Canada,92,musicbrainz-batch-search,artist country is CA
+126,126,2330,Stan Rogers,1,https://www.last.fm/music/Stan+Rogers,Stan Rogers,02f1b412-40be-49fa-85aa-677aa1cba7f0,CA,Canada,85,musicbrainz-batch-search,artist country is CA
+127,127,2333,State of Shock,1,https://www.last.fm/music/State+of+Shock,State of Shock,b14ea53e-22b1-404a-88e2-9cfc1b56bd29,CA,Canada,84,musicbrainz-batch-search,artist country is CA
+128,128,2344,Sunkissed,1,https://www.last.fm/music/Sunkissed,Sunkissed,da61cf10-a092-476d-873b-72ebea84a0bd,CA,Canada,79,musicbrainz-batch-search,artist country is CA
+129,129,2357,Tate McRae,1,https://www.last.fm/music/Tate+McRae,Tate McRae,f9133869-f87c-459c-9aa7-2f176cda7e06,CA,Canada,99,musicbrainz-batch-search,artist country is CA
+130,130,2358,Tebey,1,https://www.last.fm/music/Tebey,Tebey,f50de36b-4bfc-4747-a551-2ad36023cf13,CA,Canada,80,musicbrainz-batch-search,artist country is CA
+131,131,2371,The Age Of Electric,1,https://www.last.fm/music/The+Age+Of+Electric,The Age of Electric,b1562204-db31-4c89-9c8c-6c2b6546bf75,CA,Canada,84,musicbrainz-batch-search,artist country is CA
+132,132,2402,The Lowest of the Low,1,https://www.last.fm/music/The+Lowest+of+the+Low,The Lowest of the Low,d97de33b-86b6-43c3-a4a5-f5fba74a721f,CA,Canada,78,musicbrainz-batch-search,artist country is CA
+133,133,2425,The Tea Party,1,https://www.last.fm/music/The+Tea+Party,The Tea Party,7ebc552b-71b2-47b7-9dc8-31ef08e20aec,CA,Canada,100,musicbrainz-batch-search,artist country is CA
+134,134,2431,The Weather Station,1,https://www.last.fm/music/The+Weather+Station,The Weather Station,eda7da10-0b65-41df-ac36-9c83b7017f7a,CA,Canada,77,musicbrainz-batch-search,artist country is CA
+135,135,2444,Tom Cochrane,1,https://www.last.fm/music/Tom+Cochrane,Tom Cochrane,825a918f-09fa-40ee-9c27-b0921d48bdbb,CA,Canada,84,musicbrainz-batch-search,artist country is CA
